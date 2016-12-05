@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maestro</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artiesten</string>
+    <string name="favorites">Favorieten</string>
+    <string name="library">Bibliotheek</string>
+    <string name="numbers">Nummers</string>
+    <string name="playing">Speelt nu</string>
+    <string name="playlists">Afspeellijsten</string>
+</resources>

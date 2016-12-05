@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Maestro</string>
+
+    <!-- headers and frequently used words -->
+    <string name="library">Library</string>
+    <string name="playlists">Playlists</string>
+    <string name="albums">Albums</string>
+    <string name="numbers">Numbers</string>
+    <string name="favorites">Favorites</string>
+    <string name="playing">Playing</string>
+    <string name="artists">Artists</string>
+
+</resources>
